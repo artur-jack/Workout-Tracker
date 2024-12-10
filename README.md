@@ -18,14 +18,7 @@ Este é um aplicativo de linha de comando para gerenciar seus treinos e exercíc
 - Python 3.6+
 - SQLAlchemy
 - tabulate
-
-## Instalação
-
-1. Clone este repositório
-2. Instale as dependências:
-```bash
-pip install -r requirements.txt
-```
+- Venv
 
 ## Passos para rodar
 
