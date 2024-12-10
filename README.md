@@ -27,9 +27,25 @@ Este é um aplicativo de linha de comando para gerenciar seus treinos e exercíc
 pip install -r requirements.txt
 ```
 
-## Como usar
+## Passos para rodar
 
-Execute o programa com:
+Aqui estão os passos para rodar o projeto:
+
+### 1. Criar e ativar ambiente virtual (venv):
+
+```bash
+python -m venv venv
+source venv/bin/activate  # No Linux/Mac
+```
+
+### 2. Instalar dependências:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Rodar aplicação
+
 ```bash
 python app.py
 ```
