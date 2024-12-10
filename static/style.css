@@ -1,0 +1,43 @@
+.workout-card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.exercise-table {
+    margin-top: 15px;
+}
+
+.btn-add {
+    margin-bottom: 20px;
+}
+
+.day-header {
+    background-color: #f8f9fa;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.form-section {
+    margin-bottom: 30px;
+}
+
+.exercise-form {
+    border: 1px solid #dee2e6;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.delete-btn {
+    color: #dc3545;
+    cursor: pointer;
+}
+
+.pr-badge {
+    background-color: #28a745;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 0.8em;
+}
